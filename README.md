@@ -1,6 +1,6 @@
 # Hi there, I'm Eduardo Karpfenstein ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 ## About Me
-🎓 Atuaemente graduando em **Engenharia de Software** no **Instituto Nacional de Telecomunicações** (INATEL).
+🎓 Atualmente graduando em **Engenharia de Software** no **Instituto Nacional de Telecomunicações** (INATEL).
 
 📝 Possuo um artigo publicado: [Estabelecimento de chave criptografica utilizando o ganho do canal sem fio como segredo](https://drive.google.com/file/d/19VLjQ8VN_jb-feLoo_ZY8jY-3QF549sF/view?usp=drive_link)
 

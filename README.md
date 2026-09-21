@@ -1,13 +1,27 @@
-# Hi there, I'm Eduardo Karpfenstein ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Bem+vindo+%7C+Prazer,+sou+Eduardo+Karpfenstein!;Node.js+%7C+TypeScript+%7C+React;MySql+%7C+MongoDB+%7C+Git" alt="Typing SVG" />
+</p>
+
 ## About Me
-🎓 Formado em **Engenharia de Software** no **Instituto Nacional de Telecomunicações** (INATEL).
+
+🎓 Formado em **Engenharia de Software** pelo **Instituto Nacional de Telecomunicações** (INATEL).
+
+💻​ **CREA-MG: 142414567-8**
 
 📝 Possuo um artigo publicado: [Estabelecimento de chave criptografica utilizando o ganho do canal sem fio como segredo](https://drive.google.com/file/d/19VLjQ8VN_jb-feLoo_ZY8jY-3QF549sF/view?usp=drive_link)
 
 📧 Email de contato: **edukarp10@gmail.com**
 
+
 ## Linguagens e Ferramentas
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mySql" width="40" height="40"/> </a> <a href="https://www.karatelabs.io" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/png-shadow-512/Karate-Labs.png" alt="karate" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img <img src="https://github.com/user-attachments/assets/c62f42b6-ba0d-453b-8760-8db0acaaea6c" alt="nodejs" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
+[![.](https://skillicons.dev/icons?i=git,cpp,cs,java,python,mysql,mongodb,jest,postman,prisma,js,ts,nodejs,nestjs,react)](https://skillicons.dev)
+
+### 📊 Estatísticas do GitHub
+
+<p>
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Edukarp&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
 
 
 ## Links
